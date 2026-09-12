@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ecg-arrhythmia
+Version: 0.1.0
+Summary: Deteccion de ondas P/Q/R/S y arritmias en senales ECG (MIT-BIH)
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.26
+Requires-Dist: scipy>=1.11
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: wfdb>=4.1
